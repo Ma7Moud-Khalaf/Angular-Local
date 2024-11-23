@@ -1,0 +1,8 @@
+<div>
+  <h1>{{ 'helper.app.title' | translate }}</h1>
+  <p>{{ 'helper.app.description' | translate }}</p>
+  <p>{{ 'helper.app.description' | translate }}</p>
+  <app-one-page [title]="'title' |translate"></app-one-page>
+  <button (click)="switchLanguage('en')">English</button>
+  <button (click)="switchLanguage('ar')">عربي</button>
+</div>

@@ -1,0 +1,6 @@
+{
+    "helper":{
+    "app.title": "Welcome to my Angular App!",
+    "app.description": "This is an example of dynamic translation using ngx-translate."},
+    "title":"khalaf"
+  }
